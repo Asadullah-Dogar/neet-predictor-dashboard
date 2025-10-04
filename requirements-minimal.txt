@@ -1,0 +1,7 @@
+# Minimal Requirements - Use this if main requirements.txt fails
+# This is the absolute minimum needed to run the dashboard
+
+streamlit
+pandas
+numpy
+plotly
